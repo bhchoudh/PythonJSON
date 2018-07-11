@@ -1,6 +1,6 @@
 import json
 
-#Write a JSON file
+#Write a JSON file -Array data & non array key value model 
 filepath=input(" JSON file path with forward / :-")
 fileref=open(filepath,'w')
 #Prepare an array & non array dictionary & convert into a JSOn object to write in a JSON file
